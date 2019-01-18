@@ -33,3 +33,5 @@ TortoiseGit vervangen door SourceTree
 	* Geavanceerde systeeminstellingen
 	* Omgevingsvariablelen
 	* Nieuw: Naam - 'GIT_SSH' Waarde: 'C:\Program Files\PuTTY\plink.exe' (zonder quotes)
+
+Putty openen server 'github.com' + connect
